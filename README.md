@@ -59,7 +59,11 @@ Studied Kerberos and NTLM authentication and how they function within a domain e
 ### Authentication Methods
 ![Auth](screenshots/ad-05-authentication.png)
 
----
+--ad-01-active-directory.png
+ad-02-user-management.png
+ad-03-computer-management.png
+ad-04-group-policy.png
+ad-05-authentication.png
 
 ## Key Takeaways
 - Active Directory is the core identity management system in enterprise networks.
